@@ -1,1 +1,2 @@
-Trưởng Nhóm: Võ Tấn Đạt
+Trưởng Nhóm: Võ Tấn Đạt <br>
+Thành Viên: Nguyễn Quốc Khánh <br>
